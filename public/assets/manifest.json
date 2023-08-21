@@ -2,5 +2,7 @@
   "assets/app.css": "/assets/app.css",
   "assets/app.js": "/assets/app.js",
   "assets/runtime.js": "/assets/runtime.js",
-  "assets/vendors-node_modules_bootstrap_dist_js_bootstrap_esm_js-node_modules_jquery_dist_jquery_js.js": "/assets/vendors-node_modules_bootstrap_dist_js_bootstrap_esm_js-node_modules_jquery_dist_jquery_js.js"
+  "assets/vendors-node_modules_bootstrap_dist_js_bootstrap_esm_js-node_modules_jquery_dist_jquery_js.js": "/assets/vendors-node_modules_bootstrap_dist_js_bootstrap_esm_js-node_modules_jquery_dist_jquery_js.js",
+  "assets/fonts/bootstrap-icons.woff?": "/assets/fonts/bootstrap-icons.4753c5ba.woff",
+  "assets/fonts/bootstrap-icons.woff2?": "/assets/fonts/bootstrap-icons.6d63d050.woff2"
 }
