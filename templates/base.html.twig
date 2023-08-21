@@ -18,7 +18,7 @@
 		{% endblock %}
 		<nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
 			<div class="container-fluid">
-				<a class="navbar-brand text-warning" href="#">SneakerZOnly</a>
+				<a class="navbar-brand text-warning" href="{{path('homepage')}}">SneakerZOnly</a>
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
@@ -40,7 +40,7 @@
 						</li>
 					</ul>
 					<div class="d-flex">
-						<button type="button" href="# " class="btn btn-outline-success btn-sm me-2">Connection</button>
+						<button type="button" href="{{path('app_login')}}" class="btn btn-outline-success btn-sm me-2">Connection</button>
 						<button type="button" href="# " class="btn btn-success btn-sm">Subscription</button>
 					</div>
 				</div>
